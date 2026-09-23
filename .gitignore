@@ -1,0 +1,7 @@
+IronLog.xcodeproj/
+build/
+Payload/
+*.ipa
+IronLog/Resources/reference.json
+opl.zip
+__pycache__/

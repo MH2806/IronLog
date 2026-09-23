@@ -1,0 +1,353 @@
+archer-pull-up|Archer Pull-Up|lats|compound|advanced|pull-up bar
+arnold-press|Arnold Press|shoulders|compound|intermediate|dumbbell
+assault-bike|Assault Bike|quadriceps|compound|beginner|machine
+assisted-chin-up|Assisted Chin-Up|lats|compound|beginner|machine
+assisted-dip|Assisted Dip|chest,triceps|compound|beginner|machine
+assisted-pull-up|Assisted Pull-Up|lats|compound|beginner|machine
+band-assisted-chin-up|Band Assisted Chin-Up|lats|compound|beginner|pull-up bar,resistance band
+band-assisted-pull-up|Band Assisted Pull-Up|lats|compound|beginner|pull-up bar,resistance band
+bar-cable-curl|Bar Cable Curl|biceps|isolation|beginner|cable
+bar-pullover|Bar Pullover|lats,chest|compound|intermediate|barbell,bench
+bar-pushdown|Bar Pushdown|triceps|isolation|beginner|cable
+barbell-back-squat|Barbell Back Squat|quadriceps,glutes|compound|intermediate|barbell,squat rack
+barbell-behind-the-back-shrug|Barbell Behind the Back Shrug|traps|isolation|intermediate|barbell
+barbell-bench-press|Barbell Bench Press|chest|compound|intermediate|barbell,bench
+barbell-bicep-curl|Barbell Bicep Curl|biceps|isolation|beginner|barbell
+barbell-box-squat|Barbell Box Squat|quadriceps,glutes|compound|intermediate|barbell,squat rack,bench
+barbell-bulgarian-split-squat|Barbell Bulgarian Split Squat|quadriceps,glutes|compound|advanced|barbell,bench,squat rack
+barbell-calf-raise|Barbell Calf Raise|calves|isolation|beginner|barbell,squat rack
+barbell-drag-curl|Barbell Drag Curl|biceps|isolation|intermediate|barbell
+barbell-front-raise|Barbell Front Raise|shoulders|isolation|beginner|barbell
+barbell-front-squat|Barbell Front Squat|quadriceps,glutes|compound|intermediate|barbell,squat rack
+barbell-glute-bridge|Barbell Glute Bridge|glutes|compound|beginner|barbell
+barbell-guillotine-press|Barbell Guillotine Press|chest|compound|advanced|barbell,bench
+barbell-incline-row|Barbell Incline Row|back|compound|intermediate|barbell,bench
+barbell-inverted-row|Barbell Inverted Row|back|compound|beginner|barbell,squat rack
+barbell-jm-press|Barbell JM Press|triceps|compound|advanced|barbell,bench
+barbell-kas-glute-bridge|Barbell KAS Glute Bridge|glutes|isolation|intermediate|barbell,bench
+barbell-larsen-press|Barbell Larsen Press|chest|compound|intermediate|barbell,bench
+barbell-overhead-tricep-extension|Barbell Overhead Tricep Extension|triceps|isolation|intermediate|barbell
+barbell-pullover|Barbell Pullover|lats|compound|intermediate|barbell,bench
+barbell-push-press|Barbell Push Press|shoulders|compound|intermediate|barbell
+barbell-rdl|Barbell RDL|hamstrings,glutes|compound|intermediate|barbell
+barbell-rack-pull|Barbell Rack Pull|back,traps|compound|intermediate|barbell,squat rack
+barbell-reverse-lunge|Barbell Reverse Lunge|quadriceps,glutes|compound|intermediate|barbell,squat rack
+barbell-rollout|Barbell Rollout|abs|isolation|advanced|barbell,plate
+barbell-row|Barbell Row|back,lats|compound|intermediate|barbell
+barbell-shrug|Barbell Shrug|traps|isolation|beginner|barbell
+barbell-skullcrusher|Barbell Skullcrusher|triceps|isolation|intermediate|barbell,bench
+barbell-split-squat|Barbell Split Squat|quadriceps,glutes|compound|intermediate|barbell,squat rack
+barbell-standing-back-wrist-curl|Barbell Standing Back Wrist Curl|forearms|isolation|beginner|barbell
+barbell-upright-row|Barbell Upright Row|shoulders,traps|compound|intermediate|barbell
+barbell-walking-lunge|Barbell Walking Lunge|quadriceps,glutes|compound|intermediate|barbell,squat rack
+barbell-wrist-curl|Barbell Wrist Curl|forearms|isolation|beginner|barbell,bench
+barbell-wrist-extension|Barbell Wrist Extension|forearms|isolation|beginner|barbell,bench
+barbell-z-press|Barbell Z Press|shoulders|compound|advanced|barbell,squat rack
+behind-the-back-barbell-overhead-press|Behind the Back Barbell Overhead Press|shoulders|compound|advanced|barbell,squat rack
+belt-squat|Belt Squat|quadriceps,glutes|compound|beginner|machine
+bench-dip|Bench Dip|triceps|compound|beginner|bench,bodyweight
+bent-over-t-bar-row|Bent Over T-Bar Row|back,lats|compound|intermediate|barbell
+bent-over-underhand-grip-t-bar-row|Bent Over Underhand Grip T-Bar Row|back,lats|compound|intermediate|barbell
+bicycle-crunch|Bicycle Crunch|abs|isolation|beginner|bodyweight
+bodyweight-elevated-calf-raise|Bodyweight Elevated Calf Raise|calves|isolation|beginner|bodyweight
+bodyweight-glute-bridge|Bodyweight Glute Bridge|glutes|isolation|beginner|bodyweight
+bodyweight-pistol-squat|Bodyweight Pistol Squat|quadriceps,glutes|compound|advanced|bodyweight
+bulgarian-split-squat|Bulgarian Split Squat|quadriceps,glutes|compound|intermediate|dumbbell,bench
+cable-chest-press|Cable Chest Press|chest|compound|beginner|cable
+cable-concentration-curl|Cable Concentration Curl|biceps|isolation|beginner|cable
+cable-crossover|Cable Crossover|chest|isolation|beginner|cable
+cable-crunch|Cable Crunch|abs|isolation|beginner|cable,rope attachment
+cable-cuffed-single-arm-tricep-extension|Cable Cuffed Single Arm Tricep Extension|triceps|isolation|beginner|cable
+cable-curl|Cable Curl|biceps|isolation|beginner|cable
+cable-dual-overhead-tricep-extension|Cable Dual Overhead Tricep Extension|triceps|isolation|intermediate|cable
+cable-external-rotation|Cable External Rotation|shoulders|isolation|beginner|cable
+cable-fly-high-to-low|Cable Fly High to Low|chest|isolation|beginner|cable
+cable-fly-low-to-high|Cable Fly Low to High|chest|isolation|beginner|cable
+cable-front-raise|Cable Front Raise|shoulders|isolation|beginner|cable
+cable-glute-kickback|Cable Glute Kickback|glutes|isolation|beginner|cable
+cable-hammer-curl|Cable Hammer Curl|biceps|isolation|beginner|cable
+cable-hip-abductor|Cable Hip Abductor|glutes|isolation|beginner|cable
+cable-internal-rotation|Cable Internal Rotation|shoulders|isolation|beginner|cable
+cable-kickback|Cable Kickback|triceps|isolation|beginner|cable
+cable-lateral-raise|Cable Lateral Raise|shoulders|isolation|beginner|cable
+cable-pullover|Cable Pullover|lats|compound|intermediate|cable
+cable-rdl|Cable RDL|hamstrings,glutes|compound|beginner|cable
+cable-rear-delt-fly|Cable Rear Delt Fly|shoulders|isolation|beginner|cable
+cable-row|Cable Row|back,lats|compound|beginner|cable
+cable-shoulder-press|Cable Shoulder Press|shoulders|compound|intermediate|cable
+cable-shrug|Cable Shrug|traps|isolation|beginner|cable
+cable-side-crunch|Cable Side Crunch|abs|isolation|beginner|cable
+cable-single-arm-extension|Cable Single Arm Extension|triceps|isolation|beginner|cable
+cable-single-arm-overhead-tricep-extension|Cable Single Arm Overhead Tricep Extension|triceps|isolation|intermediate|cable
+cable-standing-back-wrist-curl|Cable Standing Back Wrist Curl|forearms|isolation|beginner|cable
+cable-standing-y-raise|Cable Standing Y Raise|shoulders|isolation|intermediate|cable
+cable-step-up|Cable Step Up|quadriceps,glutes|compound|intermediate|cable,bench
+cable-straight-bar-overhead-tricep-extension|Cable Straight Bar Overhead Tricep Extension|triceps|isolation|intermediate|cable
+cable-straight-bar-pushdown|Cable Straight Bar Pushdown|triceps|isolation|beginner|cable
+cable-upright-row|Cable Upright Row|shoulders,traps|compound|intermediate|cable
+cable-v-bar-pushdown|Cable V Bar Pushdown|triceps|isolation|beginner|cable
+cable-wrist-curl|Cable Wrist Curl|forearms|isolation|beginner|cable
+calf-raises|Calf Raises|calves|isolation|beginner|calf raise machine
+captains-chair-knee-raise|Captains Chair Knee Raise|abs|isolation|beginner|machine
+captains-chair-leg-raise|Captains Chair Leg Raise|abs|isolation|intermediate|machine
+chest-supported-dumbbell-row|Chest Supported Dumbbell Row|back,lats|compound|beginner|dumbbell,bench
+chin-up|Chin Up|lats,biceps|compound|intermediate|pull-up bar
+clean|Clean|quadriceps,hamstrings,glutes|compound|advanced|barbell
+clean-press|Clean Press|shoulders,quadriceps,glutes|compound|advanced|barbell
+close-grip-chin-up|Close Grip Chin Up|lats,biceps|compound|intermediate|pull-up bar
+close-grip-ez-bar-curl|Close Grip EZ Bar Curl|biceps|isolation|beginner|ez bar
+close-grip-pull-up|Close Grip Pull Up|lats,back|compound|intermediate|pull-up bar
+close-grip-pulldown|Close Grip Pulldown|lats|compound|beginner|cable,machine
+close-grip-push-up|Close Grip Push Up|triceps,chest|compound|intermediate|bodyweight
+close-grip-smith-machine-bench-press|Close Grip Smith Machine Bench Press|triceps,chest|compound|beginner|smith machine,bench
+close-neutral-grip-cable-row|Close Neutral Grip Cable Row|back,lats|compound|beginner|cable,machine
+close-grip-bench-press|Close-Grip Bench Press|triceps,chest|compound|intermediate|barbell,bench
+concentration-curl|Concentration Curl|biceps|isolation|beginner|dumbbell
+crunch|Crunch|abs|isolation|beginner|bodyweight
+cuffed-cable-seated-y-raise|Cuffed Cable Seated Y Raise|shoulders|isolation|intermediate|cable
+dead-hang|Dead Hang|forearms|isolation|beginner|pull-up bar
+deadlift|Deadlift|back,hamstrings,glutes|compound|intermediate|barbell
+decline-bench-press|Decline Bench Press|chest|compound|intermediate|barbell,decline bench
+decline-dumbbell-fly|Decline Dumbbell Fly|chest|isolation|intermediate|dumbbell,bench
+decline-dumbbell-press|Decline Dumbbell Press|chest|compound|intermediate|dumbbell,bench
+decline-push-up|Decline Push Up|chest|compound|intermediate|bodyweight,bench
+decline-sit-up|Decline Sit Up|abs|isolation|intermediate|bench
+decline-smith-machine-bench|Decline Smith Machine Bench|chest|compound|beginner|smith machine,bench
+diamond-push-up|Diamond Push Up|triceps|compound|intermediate|bodyweight
+dips|Dips|chest,triceps|compound|intermediate|dip bars
+donkey-kick|Donkey Kick|glutes|isolation|beginner|bodyweight
+dumbbell-bicep-curl|Dumbbell Bicep Curl|biceps|isolation|beginner|dumbbell
+dumbbell-external-rotation|Dumbbell External Rotation|shoulders|isolation|beginner|dumbbell
+dumbbell-face-pull|Dumbbell Face Pull|shoulders|compound|beginner|dumbbell,bench
+dumbbell-fly|Dumbbell Fly|chest|isolation|beginner|dumbbell,bench
+dumbbell-front-elevated-split-squat|Dumbbell Front Elevated Split Squat|quadriceps|compound|intermediate|dumbbell,plate
+dumbbell-front-raise|Dumbbell Front Raise|shoulders|isolation|beginner|dumbbell
+dumbbell-glute-bridge|Dumbbell Glute Bridge|glutes|isolation|beginner|dumbbell
+dumbbell-hex-press|Dumbbell Hex Press|chest|compound|beginner|dumbbell,bench
+dumbbell-hip-thrust|Dumbbell Hip Thrust|glutes|compound|beginner|dumbbell,bench
+dumbbell-incline-hammer-curl|Dumbbell Incline Hammer Curl|biceps|isolation|beginner|dumbbell,bench
+dumbbell-incline-y-raise|Dumbbell Incline Y Raise|shoulders|isolation|beginner|dumbbell,bench
+dumbbell-internal-rotation|Dumbbell Internal Rotation|shoulders|isolation|beginner|dumbbell
+dumbbell-kas-glute-bridge|Dumbbell KAS Glute Bridge|glutes|isolation|intermediate|dumbbell,bench
+dumbbell-kelso-shrug|Dumbbell Kelso Shrug|traps|isolation|beginner|dumbbell,bench
+dumbbell-kickback|Dumbbell Kickback|triceps|isolation|beginner|dumbbell
+dumbbell-larsen-press|Dumbbell Larsen Press|chest|compound|intermediate|dumbbell,bench
+dumbbell-lateral-raise|Dumbbell Lateral Raise|shoulders|isolation|beginner|dumbbell
+dumbbell-lunge|Dumbbell Lunge|quadriceps|compound|beginner|dumbbell
+dumbbell-one-arm-row|Dumbbell One Arm Row|lats|compound|beginner|dumbbell,bench
+dumbbell-preacher-curl|Dumbbell Preacher Curl|biceps|isolation|beginner|dumbbell,bench
+dumbbell-preacher-hammer-curl|Dumbbell Preacher Hammer Curl|biceps|isolation|beginner|dumbbell,bench
+dumbbell-press|Dumbbell Press|chest|compound|beginner|dumbbell,bench
+dumbbell-pullover|Dumbbell Pullover|lats|compound|intermediate|dumbbell,bench
+dumbbell-push-press|Dumbbell Push Press|shoulders|compound|intermediate|dumbbell
+dumbbell-rdl|Dumbbell RDL|hamstrings|compound|beginner|dumbbell
+dumbbell-rear-delt-fly|Dumbbell Rear Delt Fly|shoulders|isolation|beginner|dumbbell
+dumbbell-reverse-lunge|Dumbbell Reverse Lunge|quadriceps|compound|beginner|dumbbell
+dumbbell-row|Dumbbell Row|back,lats|compound|beginner|dumbbell,bench
+dumbbell-shoulder-press|Dumbbell Shoulder Press|shoulders|compound|beginner|dumbbell,bench
+dumbbell-shrug|Dumbbell Shrug|traps|isolation|beginner|dumbbell
+dumbbell-skullcrusher|Dumbbell Skullcrusher|triceps|isolation|intermediate|dumbbell,bench
+dumbbell-split-squat|Dumbbell Split Squat|quadriceps|compound|beginner|dumbbell
+dumbbell-squat|Dumbbell Squat|quadriceps|compound|beginner|dumbbell
+dumbbell-standing-back-wrist-curl|Dumbbell Standing Back Wrist Curl|forearms|isolation|beginner|dumbbell
+dumbbell-step-up|Dumbbell Step Up|quadriceps|compound|beginner|dumbbell,bench
+dumbbell-tricep-extension|Dumbbell Tricep Extension|triceps|isolation|beginner|dumbbell
+dumbbell-upright-row|Dumbbell Upright Row|shoulders|compound|intermediate|dumbbell
+dumbbell-walking-lunge|Dumbbell Walking Lunge|quadriceps|compound|intermediate|dumbbell
+dumbbell-wrist-extension|Dumbbell Wrist Extension|forearms|isolation|beginner|dumbbell
+dumbbell-z-press|Dumbbell Z Press|shoulders|compound|advanced|dumbbell
+dumbbell-zottman-curl|Dumbbell Zottman Curl|biceps|isolation|intermediate|dumbbell
+ez-bar-curl|EZ Bar Curl|biceps|isolation|beginner|ez bar
+ez-bar-preacher-curl|EZ Bar Preacher Curl|biceps|isolation|beginner|ez bar,bench
+ez-bar-pullover|EZ Bar Pullover|lats|compound|intermediate|ez bar,bench
+ez-bar-skullcrusher|EZ Bar Skullcrusher|triceps|isolation|intermediate|ez bar,bench
+ez-bar-standing-back-wrist-curl|EZ Bar Standing Back Wrist Curl|forearms|isolation|beginner|ez bar
+ez-bar-wrist-curl|EZ Bar Wrist Curl|forearms|isolation|beginner|ez bar,bench
+ez-bar-wrist-extension|EZ Bar Wrist Extension|forearms|isolation|beginner|ez bar,bench
+elevated-smith-machine-calf-raise|Elevated Smith Machine Calf Raise|calves|isolation|beginner|smith machine,plate
+elliptical|Elliptical|quadriceps|compound|beginner|machine
+exercise-bike|Exercise Bike|quadriceps|compound|beginner|machine
+face-away-cable-curl|Face Away Cable Curl|biceps|isolation|intermediate|cable
+face-pull|Face Pull|shoulders|isolation|beginner|cable,rope attachment
+farmer-carry|Farmer Carry|forearms,traps|compound|beginner|dumbbell
+glute-ham-raise|Glute Ham Raise|hamstrings|compound|advanced|machine
+glute-ham-raise-sit-up|Glute Ham Raise Sit Up|abs|isolation|intermediate|machine
+goblet-squat|Goblet Squat|quadriceps,glutes|compound|beginner|dumbbell
+good-morning|Good Morning|hamstrings|compound|intermediate|barbell
+hack-squat|Hack Squat|quadriceps|compound|beginner|machine
+hack-squat-calf-raise|Hack Squat Calf Raise|calves|isolation|beginner|machine
+hammer-curl|Hammer Curl|biceps|isolation|beginner|dumbbell
+handstand-push-up|Handstand Push Up|shoulders|compound|advanced|bodyweight
+hanging-knee-raise|Hanging Knee Raise|abs|isolation|intermediate|pull-up bar
+high-cable-lateral-raise|High Cable Lateral Raise|shoulders|isolation|intermediate|cable
+hip-abductor|Hip Abductor|glutes|isolation|beginner|machine
+hip-adductor|Hip Adductor|glutes|isolation|beginner|machine
+hip-thrust|Hip Thrust|glutes|compound|intermediate|barbell,bench
+hyperextension|Hyperextension|back|compound|beginner|bodyweight
+incline-bench-press|Incline Bench Press|chest,shoulders|compound|intermediate|barbell,incline bench
+incline-cable-press|Incline Cable Press|chest|compound|intermediate|cable,bench
+incline-close-grip-barbell-bench-press|Incline Close Grip Barbell Bench Press|chest|compound|intermediate|barbell,bench
+incline-close-grip-smith-machine-bench-press|Incline Close Grip Smith Machine Bench Press|chest|compound|beginner|smith machine,bench
+incline-dumbbell-curl|Incline Dumbbell Curl|biceps|isolation|intermediate|dumbbell,bench
+incline-dumbbell-fly|Incline Dumbbell Fly|chest|isolation|intermediate|dumbbell,bench
+incline-dumbbell-front-raise|Incline Dumbbell Front Raise|shoulders|isolation|intermediate|dumbbell,bench
+incline-dumbbell-press|Incline Dumbbell Press|chest|compound|intermediate|dumbbell,bench
+incline-dumbbell-row|Incline Dumbbell Row|back|compound|beginner|dumbbell,bench
+incline-hammer-curl|Incline Hammer Curl|biceps|isolation|intermediate|dumbbell,bench
+incline-push-up|Incline Push Up|chest|compound|beginner|bodyweight,bench
+incline-side-lateral-raise|Incline Side Lateral Raise|shoulders|isolation|intermediate|dumbbell,bench
+incline-smith-machine-bench|Incline Smith Machine Bench|chest|compound|beginner|smith machine,bench
+iso-lateral-chest-press|Iso Lateral Chest Press|chest|compound|beginner|machine
+iso-lateral-close-grip-pulldown|Iso Lateral Close Grip Pulldown|lats|compound|beginner|machine
+iso-lateral-decline-chest-press|Iso Lateral Decline Chest Press|chest|compound|beginner|machine
+iso-lateral-high-row|Iso Lateral High Row|back|compound|beginner|machine
+iso-lateral-incline-chest-press|Iso Lateral Incline Chest Press|chest|compound|beginner|machine
+iso-lateral-low-row|Iso Lateral Low Row|lats|compound|beginner|machine
+iso-lateral-pulldown|Iso Lateral Pulldown|lats|compound|beginner|machine
+iso-lateral-row-machine|Iso Lateral Row Machine|back|compound|beginner|machine
+iso-lateral-shoulder-press|Iso Lateral Shoulder Press|shoulders|compound|beginner|machine
+iso-lateral-wide-pulldown|Iso Lateral Wide Pulldown|lats|compound|beginner|machine
+katana-extension|Katana Extension|triceps|isolation|intermediate|cable
+kettlebell-bicep-curl|Kettlebell Bicep Curl|biceps|isolation|beginner|kettlebell
+kettlebell-deadlift|Kettlebell Deadlift|hamstrings|compound|beginner|kettlebell
+kettlebell-farmer-carry|Kettlebell Farmer Carry|forearms|compound|beginner|kettlebell
+kettlebell-front-lunge|Kettlebell Front Lunge|quadriceps|compound|intermediate|kettlebell
+kettlebell-military-press|Kettlebell Military Press|shoulders|compound|intermediate|kettlebell
+kettlebell-rdl|Kettlebell RDL|hamstrings|compound|intermediate|kettlebell
+kettlebell-reverse-lunge|Kettlebell Reverse Lunge|quadriceps|compound|intermediate|kettlebell
+kettlebell-row|Kettlebell Row|back|compound|beginner|kettlebell
+kettlebell-shrug|Kettlebell Shrug|traps|isolation|beginner|kettlebell
+kettlebell-upright-row|Kettlebell Upright Row|shoulders|compound|intermediate|kettlebell
+kneeling-push-up|Kneeling Push Up|chest|compound|beginner|bodyweight
+l-sit|L-Sit|abs|compound|advanced|bodyweight
+landmine-press|Landmine Press|shoulders|compound|beginner|barbell
+landmine-squat|Landmine Squat|quadriceps|compound|beginner|barbell
+lateral-raise-machine|Lateral Raise Machine|shoulders|isolation|beginner|machine
+leg-curl|Leg Curl|hamstrings|isolation|beginner|leg curl machine
+leg-extension|Leg Extension|quadriceps|isolation|beginner|leg extension machine
+leg-press|Leg Press|quadriceps,glutes|compound|beginner|leg press machine
+leg-raise|Leg Raise|abs|isolation|beginner|bodyweight
+lunge|Lunge|quadriceps|compound|beginner|bodyweight
+lying-leg-curl|Lying Leg Curl|hamstrings|isolation|beginner|machine
+machine-back-extension|Machine Back Extension|back|isolation|beginner|machine
+machine-crunch|Machine Crunch|abs|isolation|beginner|machine
+machine-dip|Machine Dip|chest|compound|beginner|machine
+machine-leg-press|Machine Leg Press|quadriceps|compound|beginner|machine
+machine-leg-press-calf-raise|Machine Leg Press Calf Raise|calves|isolation|beginner|machine
+machine-overhead-tricep-extension|Machine Overhead Tricep Extension|triceps|isolation|beginner|machine
+machine-pullover|Machine Pullover|lats|isolation|intermediate|machine
+machine-rear-kickback|Machine Rear Kickback|glutes|isolation|beginner|machine
+machine-row-kelso-shrug|Machine Row Kelso Shrug|traps|isolation|intermediate|machine
+machine-tricep-extension|Machine Tricep Extension|triceps|isolation|beginner|machine
+military-press|Military Press|shoulders|compound|intermediate|barbell
+mountain-climber|Mountain Climber|abs|compound|beginner|bodyweight
+muscle-up|Muscle-Up|lats|compound|advanced|pull-up bar
+neutral-close-grip-pulldown|Neutral Close Grip Pulldown|lats|compound|beginner|cable
+neutral-grip-machine-shoulder-press|Neutral Grip Machine Shoulder Press|shoulders|compound|beginner|machine
+neutral-grip-pulldown|Neutral Grip Pulldown|lats|compound|beginner|cable
+neutral-grip-seated-machine-row|Neutral Grip Seated Machine Row|back|compound|beginner|machine
+neutral-grip-t-bar-row|Neutral Grip T-Bar Row|back|compound|intermediate|barbell
+nordic-curl|Nordic Curl|hamstrings|isolation|advanced|bodyweight
+pec-deck-machine|Pec Deck Machine|chest|isolation|beginner|machine
+pendlay-row|Pendlay Row|back|compound|intermediate|barbell
+pendulum-squat|Pendulum Squat|quadriceps|compound|intermediate|machine
+pike-push-up|Pike Push Up|shoulders|compound|intermediate|bodyweight
+plank|Plank|abs|isolation|beginner|bodyweight
+plate-front-raise|Plate Front Raise|shoulders|isolation|beginner|plate
+plate-loaded-machine-dip|Plate Loaded Machine Dip|triceps|compound|beginner|machine
+plate-loaded-machine-lateral-raise|Plate Loaded Machine Lateral Raise|shoulders|isolation|beginner|machine
+preacher-curl-machine|Preacher Curl Machine|biceps|isolation|beginner|machine
+pull-up|Pull-Up|lats,back|compound|intermediate|pull-up bar
+pulldown|Pulldown|lats,back|compound|beginner|cable,lat pulldown bar
+push-up|Push-Up|chest|compound|beginner|bodyweight
+rear-delt-fly-machine|Rear Delt Fly Machine|shoulders|isolation|beginner|machine
+reverse-barbell-curl|Reverse Barbell Curl|forearms|isolation|beginner|barbell
+reverse-cable-curl|Reverse Cable Curl|forearms|isolation|beginner|cable
+reverse-cable-wrist-curl|Reverse Cable Wrist Curl|forearms|isolation|beginner|cable
+reverse-crunch|Reverse Crunch|abs|isolation|beginner|bodyweight
+reverse-dumbbell-curl|Reverse Dumbbell Curl|forearms|isolation|beginner|dumbbell
+reverse-ez-bar-curl|Reverse EZ Bar Curl|forearms|isolation|beginner|ez bar
+reverse-ez-bar-preacher-curl|Reverse EZ Bar Preacher Curl|forearms|isolation|intermediate|ez bar,bench
+reverse-grip-barbell-bench-press|Reverse Grip Barbell Bench Press|chest|compound|advanced|barbell,bench
+reverse-grip-barbell-row|Reverse Grip Barbell Row|back|compound|intermediate|barbell
+reverse-grip-pulldown|Reverse Grip Pulldown|lats|compound|beginner|cable
+reverse-plank|Reverse Plank|abs|compound|beginner|bodyweight
+reverse-single-arm-cable-curl|Reverse Single Arm Cable Curl|forearms|isolation|beginner|cable
+rope-hammer-curl|Rope Hammer Curl|biceps|isolation|beginner|cable
+rope-overhead-extension|Rope Overhead Extension|triceps|isolation|intermediate|cable
+rope-overhead-tricep-extension|Rope Overhead Tricep Extension|triceps|isolation|beginner|cable
+rope-pullover|Rope Pullover|lats|isolation|beginner|cable
+rope-pushdown|Rope Pushdown|triceps|isolation|beginner|cable
+rowing-machine|Rowing Machine|back,quadriceps|compound|beginner|machine
+russian-twist|Russian Twist|abs|isolation|beginner|bodyweight
+seated-barbell-overhead-press|Seated Barbell Overhead Press|shoulders|compound|intermediate|barbell,bench
+seated-cable-chest-press|Seated Cable Chest Press|chest|compound|beginner|cable
+seated-cable-curl|Seated Cable Curl|biceps|isolation|beginner|cable,bench
+seated-chest-press-machine|Seated Chest Press Machine|chest|compound|beginner|machine
+seated-dumbbell-bicep-curl|Seated Dumbbell Bicep Curl|biceps|isolation|beginner|dumbbell,bench
+seated-dumbbell-front-raise|Seated Dumbbell Front Raise|shoulders|isolation|beginner|dumbbell,bench
+seated-dumbbell-hammer-curl|Seated Dumbbell Hammer Curl|biceps|isolation|beginner|dumbbell,bench
+seated-dumbbell-zottman-curl|Seated Dumbbell Zottman Curl|biceps|isolation|intermediate|dumbbell,bench
+seated-lateral-raise|Seated Lateral Raise|shoulders|isolation|beginner|dumbbell,bench
+seated-machine-calf-raise|Seated Machine Calf Raise|calves|isolation|beginner|machine
+seated-reverse-dumbbell-curl|Seated Reverse Dumbbell Curl|forearms|isolation|intermediate|dumbbell,bench
+seated-row-machine|Seated Row Machine|back,lats|compound|beginner|cable,seated row machine
+seated-single-leg-leg-curl|Seated Single Leg Leg Curl|hamstrings|isolation|beginner|machine
+seated-single-leg-machine-calf-raise|Seated Single Leg Machine Calf Raise|calves|isolation|beginner|machine
+shoulder-press-machine|Shoulder Press Machine|shoulders|compound|beginner|machine
+single-arm-cable-row|Single Arm Cable Row|back|compound|beginner|cable
+single-arm-kettlebell-row|Single Arm Kettlebell Row|back|compound|beginner|kettlebell
+single-arm-landmine-press|Single Arm Landmine Press|shoulders|compound|intermediate|barbell
+single-arm-lat-pulldown|Single Arm Lat Pulldown|lats|compound|beginner|cable
+single-leg-bodyweight-glute-bridge|Single Leg Bodyweight Glute Bridge|glutes|isolation|beginner|bodyweight
+single-leg-bodyweight-hip-thrust|Single Leg Bodyweight Hip Thrust|glutes|isolation|intermediate|bodyweight,bench
+single-leg-dumbbell-rdl|Single Leg Dumbbell RDL|hamstrings|compound|intermediate|dumbbell
+single-leg-leg-extension|Single Leg Leg Extension|quadriceps|isolation|beginner|machine
+single-leg-leg-press|Single Leg Leg Press|quadriceps|compound|intermediate|machine
+sissy-squat|Sissy Squat|quadriceps|isolation|intermediate|bodyweight
+sit-up|Sit Up|abs|isolation|beginner|bodyweight
+ski-ergometer|Ski Ergometer|lats|compound|beginner|machine
+smith-machine-behind-the-back-shrug|Smith Machine Behind the Back Shrug|traps|isolation|beginner|smith machine
+smith-machine-bench|Smith Machine Bench|chest|compound|beginner|smith machine,bench
+smith-machine-calf-raise|Smith Machine Calf Raise|calves|isolation|beginner|smith machine,plate
+smith-machine-front-elevated-split-squat|Smith Machine Front Elevated Split Squat|quadriceps|compound|intermediate|smith machine,plate
+smith-machine-good-morning|Smith Machine Good Morning|hamstrings|compound|intermediate|smith machine
+smith-machine-hip-thrust|Smith Machine Hip Thrust|glutes|compound|beginner|smith machine,bench
+smith-machine-jm-press|Smith Machine JM Press|triceps|compound|advanced|smith machine,bench
+smith-machine-lunge|Smith Machine Lunge|quadriceps|compound|beginner|smith machine
+smith-machine-rear-elevated-split-squat|Smith Machine Rear Elevated Split Squat|quadriceps|compound|intermediate|smith machine,bench
+smith-machine-row|Smith Machine Row|back|compound|beginner|smith machine
+smith-machine-shoulder-press|Smith Machine Shoulder Press|shoulders|compound|beginner|smith machine,bench
+smith-machine-shrug|Smith Machine Shrug|traps|isolation|beginner|smith machine
+smith-machine-split-squat|Smith Machine Split Squat|quadriceps|compound|beginner|smith machine
+smith-machine-squat|Smith Machine Squat|quadriceps|compound|beginner|smith machine
+snatch|Snatch|shoulders|compound|advanced|barbell
+spider-curl|Spider Curl|biceps|isolation|beginner|dumbbell,bench
+stairmaster|Stairmaster|quadriceps|compound|beginner|machine
+standing-barbell-rollout|Standing Barbell Rollout|abs|isolation|advanced|barbell
+standing-cable-crunch|Standing Cable Crunch|abs|isolation|beginner|cable
+standing-dumbbell-calf-raise|Standing Dumbbell Calf Raise|calves|isolation|beginner|dumbbell
+standing-machine-calf-raise|Standing Machine Calf Raise|calves|isolation|beginner|machine
+standing-single-leg-leg-curl|Standing Single Leg Leg Curl|hamstrings|isolation|beginner|machine
+standing-wheel-rollout|Standing Wheel Rollout|abs|isolation|advanced|bodyweight
+stiff-legged-deadlift|Stiff Legged Deadlift|hamstrings|compound|intermediate|barbell
+sumo-deadlift|Sumo Deadlift|glutes,hamstrings,quadriceps|compound|intermediate|barbell
+t-bar-row|T-Bar Row|back,lats|compound|intermediate|t-bar row machine,barbell
+trap-bar-deadlift|Trap Bar Deadlift|quadriceps,glutes,hamstrings|compound|intermediate|trap bar
+treadmill|Treadmill|quadriceps|compound|beginner|machine
+tricep-extension|Tricep Extension|triceps|isolation|beginner|dumbbell
+underhand-grip-seated-machine-row|Underhand Grip Seated Machine Row|back|compound|beginner|machine
+underhand-grip-t-bar-row|Underhand Grip T-Bar Row|back|compound|intermediate|barbell
+upright-row|Upright Row|shoulders|compound|intermediate|barbell
+weighted-bench-dip|Weighted Bench Dip|triceps|compound|intermediate|bench,plate
+weighted-dips|Weighted Dips|triceps|compound|intermediate|bodyweight,plate
+weighted-pull-up|Weighted Pull Up|lats|compound|advanced|pull-up bar,plate
+weighted-russian-twist|Weighted Russian Twist|abs|isolation|intermediate|plate
+wheel-rollout|Wheel Rollout|abs|isolation|intermediate|bodyweight
+wide-grip-barbell-bench-press|Wide Grip Barbell Bench Press|chest|compound|intermediate|barbell,bench
+wide-grip-chin-up|Wide Grip Chin Up|lats|compound|intermediate|pull-up bar
+wide-grip-pull-up|Wide Grip Pull Up|lats|compound|intermediate|pull-up bar
+wide-grip-push-up|Wide Grip Push Up|chest|compound|beginner|bodyweight
+wide-grip-smith-machine-bench-press|Wide Grip Smith Machine Bench Press|chest|compound|beginner|smith machine,bench
+wrist-curl|Wrist Curl|forearms|isolation|beginner|barbell
+zercher-squat|Zercher Squat|quadriceps|compound|advanced|barbell,squat rack

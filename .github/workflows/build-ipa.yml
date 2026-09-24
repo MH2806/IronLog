@@ -1,0 +1,115 @@
+name: Build IPA
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+    inputs:
+      healthkit:
+        description: "Include the HealthKit entitlement (turn off if your sideload tool rejects it)"
+        type: boolean
+        default: true
+
+permissions:
+  contents: write
+
+jobs:
+  data:
+    name: Build data (exercise library, standards, OpenPowerlifting)
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install pandas numpy
+
+      - name: Week key for caching
+        id: week
+        run: echo "key=$(date -u +%G-%V)" >> "$GITHUB_OUTPUT"
+
+      - name: Cache OpenPowerlifting download (refreshes weekly)
+        id: cache
+        uses: actions/cache@v4
+        with:
+          path: opl.zip
+          key: opl-${{ steps.week.outputs.key }}
+
+      - name: Download OpenPowerlifting bulk CSV
+        if: steps.cache.outputs.cache-hit != 'true'
+        run: curl -fL --retry 3 -o opl.zip https://openpowerlifting.gitlab.io/opl-csv/files/openpowerlifting-latest.zip
+
+      - name: Build percentile tables (fails if DOTS doesn't match the dataset)
+        run: python scripts/build_reference_data.py --zip opl.zip --out reference.json
+
+      - name: Build exercise library + strength standards
+        run: python scripts/build_exercises.py && cp IronLog/Resources/exercises.json IronLog/Resources/standards.json .
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: app-data
+          path: |
+            reference.json
+            exercises.json
+            standards.json
+
+  ipa:
+    name: Build unsigned IPA
+    needs: data
+    runs-on: macos-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/download-artifact@v4
+        with:
+          name: app-data
+          path: IronLog/Resources
+
+      - name: Install XcodeGen
+        run: brew install xcodegen
+
+      - name: Generate Xcode project
+        run: xcodegen generate
+
+      - name: Build
+        run: |
+          xcodebuild -version
+          set -o pipefail
+          xcodebuild \
+            -project IronLog.xcodeproj \
+            -scheme IronLog \
+            -configuration Release \
+            -sdk iphoneos \
+            -destination 'generic/platform=iOS' \
+            -derivedDataPath build \
+            CODE_SIGNING_ALLOWED=NO CODE_SIGNING_REQUIRED=NO CODE_SIGN_IDENTITY="" \
+            build | tee build.log | grep -E "error:|warning: unre|BUILD" || true
+          test -d build/Build/Products/Release-iphoneos/IronLog.app || { grep -B2 -A6 "error:" build.log | head -150; exit 1; }
+
+      - name: Embed entitlements and package IPA
+        run: |
+          ENT=Config/IronLog.entitlements
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ "${{ inputs.healthkit }}" = "false" ]; then
+            ENT=Config/NoHealth.entitlements
+          fi
+          rm -rf Payload && mkdir Payload
+          cp -R build/Build/Products/Release-iphoneos/IronLog.app Payload/
+          # Ad-hoc sign so the entitlements travel with the binary; your sideload tool re-signs with your Apple ID.
+          codesign --force --sign - --entitlements "$ENT" --timestamp=none Payload/IronLog.app
+          zip -qry IronLog.ipa Payload
+          ls -lh IronLog.ipa
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: IronLog-ipa
+          path: IronLog.ipa
+
+      - name: Publish as a GitHub release (easy to download on your phone)
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: build-${{ github.run_number }}
+          name: IronLog build ${{ github.run_number }}
+          files: IronLog.ipa
+          make_latest: true
